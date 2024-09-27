@@ -1,0 +1,14 @@
+brown_GeneSet	Gene set for module brown	Folr1	2900040C04Rik	Cfap126	Ecrg4	Kl	Smim5	Clic6	Prlr	Calml4	Otx2	F5	Wfdc2	Lbp	Krt18	Ttr	Kcne2	Htr2c	Chchd10	Smim22	Igf2	Slc4a5	Cox8b	Dynlrb2	Pcp4l1	Abca4
+green_GeneSet	Gene set for module green	Cthrc1	Tspan8	Bricd5	Klc3	Rflnb	Six1	Lmcd1	Fos	Smoc2	Rhoc	Grb14	Ctnnbip1	Fgfrl1	Rab13	Aif1l	Bpgm	Junb	Ier2	Jun	Extl1	Gm5617	Mapk3	Map7d2	Cped1	Mdfi
+purple_GeneSet	Gene set for module purple	Igtp	Iigp1	Gm4951	Ifi47	Isg15	Bst2	Psmb8	Gbp6	Irgm1	Stat1	B2m	H2-K1	Ifit3	H2-Q7	Gbp7	Psmb9	Gbp3	H2-D1	Tgtp2	Tap1	Oasl2	Xaf1	Ifit1	Zbp1	H2-T23
+turquoise_GeneSet	Gene set for module turquoise	Rps18	Rps2	Rps15a	Rpl29	Rpl9	Rps19	Rpl41	Rpl26	Rps13	Rpl32	Rpl23	Rps10	Rps11	Rpl11	Rps17	Rpl15	Nme2	Rpl18a	Rps3	Rps23	Rpl36	Rpl38	Rpl19	Rpl36a	Rpl18
+pink_GeneSet	Gene set for module pink	Ednrb	Ptn	Pcsk1n	Emid1	Slc1a2	Kcnip3	Tmem100	Atp1b2	Clu	Nrxn3	Ly6h	Olfm2	Epas1	Matn4	Ptprd	Tshz2	Cpe	Trnp1	AW047730	Sparcl1	Tceal5	Baalc	Pcp4	Epha5	Camk2n1
+black_GeneSet	Gene set for module black	C1qa	C1qb	Lyz2	Ctss	Apoe	Fcer1g	Tyrobp	C1qc	Cd52	Ctsd	Aif1	Cyba	Laptm5	Mpeg1	Hexb	Csf1r	Ly86	Ccl4	Trem2	Ifi27l2a	Il1b	Ctsh	Fth1	Ccl12	Rgs1
+blue_GeneSet	Gene set for module blue	Fxyd1	Lgi4	Sparc	Itih5	Fbln2	Art3	Nid1	Col5a2	Npy	Cd59a	Serpinh1	Ahnak	Lpar1	Emp3	Postn	Rbp1	Foxd3	Apod	Gas7	Ahr	Adgrg6	Col4a1	Olfml2a	Igfbp7	Arpc1b
+cyan_GeneSet	Gene set for module cyan	Hist1h1b	Hist1h2ab	Hist1h3c	Hist1h2ae	Hist2h2ac	Hist1h4d	Hist1h3e	Hist1h1e	Hist1h1d	Hist1h1a	Hist1h2ap	Hist1h2bj	Hist2h2bb	Hist1h2bm	Hist1h3f	Hist1h3b	Hist1h2bb	Hist1h3i	Hist1h2bn	Hist1h2af	Hist1h2ak	Hist1h4c	Hist1h2an	Hist1h2br	Hist1h2be
+salmon_GeneSet	Gene set for module salmon	Cd74	H2-Ab1	H2-Aa	H2-Eb1	Igkc	Igha	C4b	H2-DMb1	AW112010	H2-DMa	Gm8797	Cxcl9	Ly6a	Ighg2b	Jchain	Plac8	Slpi	Ly6c2	Ccl8	Rasgef1b	Sp100	Fam184b	Ifi203	Iglc2	Serpina3g
+yellow_GeneSet	Gene set for module yellow	Cenpf	Prc1	Ube2c	Nusap1	Tpx2	Top2a	Mki67	Hmmr	Hmgb2	Cdk1	Cks2	Cenpe	Ccnb1	Cdca8	Ccna2	Birc5	Ckap2l	Kif11	H2afx	Ckap2	Racgap1	Cdc20	Cenpa	Spc25	Cdca3
+greenyellow_GeneSet	Gene set for module greenyellow	Bnip3	Fam162a	Gpi1	Ldha	Higd1a	Pgk1	Aldoa	Vegfa	Tpi1	Ero1l	Pgam1	Slc2a1	Slc16a3	Adm	Pkm	Pfkl	Ankrd37	Egln3	Hk2	Egln1	P4ha1	P4ha2	Pdk1	Eif4ebp1	Ier3
+red_GeneSet	Gene set for module red	Ccnd1	Ccnd2	Il1rap	Grm5	Akap12	Slc1a3	Pou3f3	Rasl11a	Tpm1	Spry2	Phlda1	Cdkn2a	Inpp5f	Igfbp3	Sox11	Arap2	Aak1	Creb5	Hmga2	Oxr1	Clic5	Nav3	Pou3f1	Sall3	Atp1b1
+magenta_GeneSet	Gene set for module magenta	Pclaf	Rrm2	Lig1	Pcna	Atad2	Mcm7	Mcm3	Hells	Dek	Clspn	Mcm5	Dut	Mcm6	Uhrf1	Tcf19	Nasp	Mcm4	Gmnn	Dtl	Rad51ap1	Fam111a	Tk1	Rrm1	Cenpk	Ncapg2
+tan_GeneSet	Gene set for module tan	H2afz	Stmn1	Selenoh	Ube2s	Ran	Ranbp1	Hmgn2	Jpt1	Ptma	Anp32b	Tubb4b	Alyref	Lsm2	Lsm5	Srsf3	Cmc2	Ddx39	Dtymk	Snrpa1	Hpf1	Nudt21	U2af1	Ncl	Nt5dc2	Ppih
